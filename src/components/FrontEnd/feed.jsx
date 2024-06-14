@@ -37,7 +37,7 @@ const feed = props => {
        <img
 className=' rounded-full gap-2 w-10 h-10'
 src="./images/avt.avif " />
- <div className=' bg-red-800'> 
+ <div className=''> 
         <h1>userName</h1>
 <p>Posted date</p>
  </div>
